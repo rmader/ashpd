@@ -221,6 +221,7 @@
                   <object class="GtkStack" id="stack">
                     <property name="hexpand">True</property>
                     <property name="vhomogeneous">False</property>
+                    <property name="hhomogeneous">False</property>
                     <child>
                       <object class="GtkStackPage">
                         <property name="name">account</property>
